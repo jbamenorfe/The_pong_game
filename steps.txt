@@ -1,0 +1,12 @@
+The PONG GAME
+Follow the following steps to develop the pong GAME
+
+(1) Create the screen
+(2) Create and move the first paddle
+(3) Create and move the second paddle
+(4) Create the ball and make it move
+(5) Detect the ball's collision with the wall and bounce it
+(6) Detect the ball's collision with the paddle
+(7) Detect when the paddle misses the ball
+(8) Keep the score
+
